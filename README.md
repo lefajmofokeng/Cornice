@@ -1,7 +1,7 @@
 # Cornice - Image-Text Grid Component
 
 ## Overview
-The Defcon Image-Text Grid is a responsive, asymmetrical grid component designed for modern web applications. This component features a visually striking layout that combines text content with full-bleed images in an engaging, non-traditional grid pattern. Built with pure HTML and CSS, it offers a lightweight yet sophisticated solution for showcasing content with visual impact.
+Cornice is a responsive, asymmetrical grid component designed for modern web applications. This component features a visually striking layout that combines text content with full-bleed images in an engaging, non-traditional grid pattern. Built with pure HTML and CSS, it offers a lightweight yet sophisticated solution for showcasing content with visual impact.
 <img width="1920" height="875" alt="cornice" src="https://github.com/user-attachments/assets/aeb0a8ee-26bc-4e67-b68d-891b0f13646b" />
 
 ## Live Preview
